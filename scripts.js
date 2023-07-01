@@ -5,39 +5,39 @@ let quote = document.querySelector('.quote');
 let person = document.querySelector('.person');
 
 const quotes = [{
-    quote: `"Only execution matters."`,
-    person: `Unknown`
+    quote: `"Sometimes, we have to look beyond what we want and do what's best."`,
+    person: `Piccolo`
 }, {
-    quote: `"You teach people how to treat you by what you allow, what you stop, and what you reinforce."`,
-    person: `Tom Bilyeu`
+    quote: `"Push through the pain, giving up hurts more."`,
+    person: `Vegeta`
 }, {
-    quote: `"To care for those who once cared for us is one of the highest honors."`,
-    person: `Tia Walker`
+    quote: `"I do not fear this new challenge. Rather like a true warrior, I will rise to meet it."`,
+    person: `Vegeta`
 }, {
-    quote: `"I don't speak to be understood, I speak to understand."`,
-    person: `Unknown`
+    quote: `"Let's give it everything we've got!"`,
+    person: `Goku`
 },
 {
-    quote: `"Your actions, not your words, reveal what's important to you."`,
-    person: `Unknown`
+    quote: `"It is no sin to fight for what is right."`,
+    person: `Android 16`
 }, {
-    quote: `"The best way to predict the future, is to create it."`,
-    person: `Abraham Lincoln`
+    quote: `"One thing I learned from my father, is to never give up, even when the odds are stacked against you."`,
+    person: `Gohan`
 }, {
-    quote: `"Think twice before you speak, because your words and influence will plant the seed of either success or failure in the mind of another."`,
-    person: `Napoleon Hill`
+    quote: `"No! I can't just be here and do nothing, I'm going down there! Got it!? I'm done waiting."`,
+    person: `Gohan`
 }, {
-    quote: `"Identity and values drive behavior."`,
-    person: `Tom Bilyeu`
+    quote: `"I doubt I need an introduction, but just in case, I am the mighty Frieza and yes, all the horrible stories you've heard are true."`,
+    person: `Frieza`
 }, {
-    quote: `"Don't try to change human behavior, try to leverage behavior already there."`,
-    person: `Tom Bilyeu`
+    quote: `"Before you begin your pathetic struggle to survive, I should warn you. Your chance of winning is nonexistent."`,
+    person: `Frieza`
 }, {
-    quote: `"Quit labeling your inner states as good or bad or positive or negative, and start thinking of them as useful or not useful for any given situation."`,
-    person: `Unknown`
+    quote: `"Enemies can grow stronger too. I can never relent in my training."`,
+    person: `Future Trunks`
 }, {
-    quote: `"Be awesome!"`,
-    person: `Me`
+    quote: `"Your resistance is the cause of your pain."`,
+    person: `Cell`
 },];
 
 btn.addEventListener('click', function(){
