@@ -17,49 +17,52 @@ body {
 }
 
 .container {
-    width: 550px;
+    width: 700px;
     height: 450px;
 }
 
 .header {
     font-size: 1.2rem;
-    border: solid 2px #fff;
-    color: #fff;
-    background-color: #262626;
-    padding: 5px;
-    width: 80%;
-    margin: 20px auto;
-    border-radius: 5px;
+    color: black;
+    padding: 0 0 10px 0;
 }
 
 .main-content {
     width: 100%;
     height: 300px;
-    background-color: #fff;
+    background-color: #f85b1a;
     border-radius: 15px;
-    padding: 50px 40px;
+    padding: 30px 40px;
     box-shadow: 0 0 10px;
+    border: solid 5px #072083;
 }
 
 .main-content .text-area {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     line-height: 1.5;
+    color: #fff;
 }
 
 .main-content .person {
     font-size: 1.6rem;
-    color: red;
+    font-weight: bold;
+    color: #072083;
     text-transform: uppercase;
     margin-top: 20px;
 }
 
+.main-content .character {
+    margin-top: 20px;
+}
+
 .button-area button {
-    background-color: #262626;
+    background-color: #189e1e;
     color: #fff;
     font-size: 1.3rem;
     padding: 10px 15px;
-    margin-top: 20px;
-    border-radius: 5px;
+    margin-top: 10px;
+    border: solid 2px #189e1e;
+    border-radius: 10px;
 }
 
 .button-area button:active {
