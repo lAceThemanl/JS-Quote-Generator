@@ -63,9 +63,13 @@ body {
     margin-top: 10px;
     border: solid 2px #189e1e;
     border-radius: 10px;
+    box-shadow: 0 0 10px;
 }
 
+.button-area button:hover {
+    border: solid 2px whitesmoke;
+}
 .button-area button:active {
-    background-color: lightblue;
+    background-color: darkgreen;
 }
 
