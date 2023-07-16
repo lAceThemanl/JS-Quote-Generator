@@ -48,7 +48,7 @@ const quotes = [{
 }, {
     quote: `"Your resistance is the cause of your pain."`,
     person: `Cell`,
-    image: `cell-small`
+    image: `cell--small`
 },];
 
 btn.addEventListener('click', function(){
